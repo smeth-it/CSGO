@@ -1,0 +1,5 @@
+This are some sites that may help you personalize your exec file:
+Crosshair generator:
+	https://csgocrosshairs.com/generator/
+Bind generator:
+	https://tools.dathost.net/csgobindsgenerator
